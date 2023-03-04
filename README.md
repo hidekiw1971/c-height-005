@@ -4,7 +4,7 @@
 - bodyに'height: 100lvh;'を設定した場合。
 
 # w3c html/css ck
-- confirmed or unconfirmed
+- confirmed
 
 # browser ck
 ### pc実機ck
