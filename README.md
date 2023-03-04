@@ -1,7 +1,7 @@
-画像をコピペ
+<img width="1393" alt="image" src="https://user-images.githubusercontent.com/99580997/222927507-f22ad637-b719-4897-8aae-a5d367f9c206.png">
 
 # compornent（共通部品）
-- 説明
+- bodyに'height: 100lvh;'を設定した場合。
 
 # w3c html/css ck
 - confirmed or unconfirmed
